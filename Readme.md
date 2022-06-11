@@ -1,4 +1,4 @@
-# Here is the original Bukkit server with pre-installed plugins to support the translation of Python scripts into the server API.
+# Here is the original Nukkit server with pre-installed plugins to support the translation of Python scripts into the server API.
 
 ## Include
 - Minecraft 1.19
