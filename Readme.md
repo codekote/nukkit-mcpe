@@ -8,7 +8,6 @@
 - Python mcpe library py3minepi
 
 ## How to start
-`docker build -t nukkit_mcpe:1.0 .`
-`docker run -it -p 25565:25565/udp -v world:/srv/nukkit nukkit_mcpe:1.0`
-
-`docker start -i <CT_ID`
+```docker build -t nukkit_mcpe:1.0 .```
+```docker run -it -p 25565:25565/udp -v world:/srv/nukkit nukkit_mcpe:1.0```
+```docker start -i <CT_ID```
